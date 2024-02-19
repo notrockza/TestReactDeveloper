@@ -1,0 +1,36 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} */
+
+.section-text{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 2%;
+}
+
+.section-contant{
+  margin-left: 20%;
+  margin-right: 10%;
+
+}
+
+.section-app{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 20%;
+}
+
+.section-l{
+  margin-left: 92.5%;
+}
+
+
+:root {
+background: #6eda78 ;
+background: linear-gradient(90deg, #6eda78 35%,#ffa200 100%);
+}
+
+
